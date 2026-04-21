@@ -2,7 +2,7 @@
 
 Este projeto é uma calculadora básica desenvolvida utilizando **HTML**, **CSS** e **JavaScript puro**, com o objetivo de realizar operações matemáticas simples diretamente no navegador.
 #Link para acesso
-
+https://namibya.github.io/Calculadora-JS/
 ---
 
 ## 📌 Funcionalidades
